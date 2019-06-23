@@ -1,0 +1,15 @@
+Laboratório de Software e Projetos
+
+Integração de Aplicativo Android com Dispositivo Arduino Via Bluetooth - Projeto Tea Machine
+Ezequiel dos Santos Bitencourt e Thainá Soares Lutz
+
+Informações sobre os códigos
+
+Tea Machine App:
+Aplicativo Android
+Desenvolvido na IDE Android Studio
+Bluetooth APIs utilizadas disponíveis em: https://developer.android.com/guide/topics/connectivity/bluetooth?hl=pt-br
+
+Tea Machine Uno:
+Programação para a placa Arduino Uno
+Desenvolvido na IDE Arduino
